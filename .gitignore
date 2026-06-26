@@ -1,5 +1,13 @@
 practice/
 .venv/
 venv/
+myenv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+env.bak/
+venv.bak/
